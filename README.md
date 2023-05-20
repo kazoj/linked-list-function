@@ -1,1 +1,1 @@
-file that regoups the most commonly used linked list's function.
+file that regoups commonly used linked list's functions.
